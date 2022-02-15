@@ -1,0 +1,16 @@
+C:\Users\g.da.silva.franca\Downloads\StopWatch\bin\Debug\net5.0\StopWatch.exe
+C:\Users\g.da.silva.franca\Downloads\StopWatch\bin\Debug\net5.0\StopWatch.deps.json
+C:\Users\g.da.silva.franca\Downloads\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.json
+C:\Users\g.da.silva.franca\Downloads\StopWatch\bin\Debug\net5.0\StopWatch.runtimeconfig.dev.json
+C:\Users\g.da.silva.franca\Downloads\StopWatch\bin\Debug\net5.0\StopWatch.dll
+C:\Users\g.da.silva.franca\Downloads\StopWatch\bin\Debug\net5.0\ref\StopWatch.dll
+C:\Users\g.da.silva.franca\Downloads\StopWatch\bin\Debug\net5.0\StopWatch.pdb
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.csproj.AssemblyReference.cache
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.AssemblyInfo.cs
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.dll
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\ref\StopWatch.dll
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.pdb
+C:\Users\g.da.silva.franca\Downloads\StopWatch\obj\Debug\net5.0\StopWatch.genruntimeconfig.cache
